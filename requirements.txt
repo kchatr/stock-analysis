@@ -1,0 +1,5 @@
+stock-analysis
+pandas>=0.24.1
+pandas-datareader>=0.8.1
+matplotlib>=3.0.2
+numpy>=1.18.2
