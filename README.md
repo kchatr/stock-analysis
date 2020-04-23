@@ -6,6 +6,9 @@ It also graphs the Moving Average, Expected Returns, correlation to the S&P 500,
 
 This program is designed to quickly and efficently gather data on a specified ticker and analyze the stock's closing price, providing valuable metrics and statistics for trading. This is especially useful for day traders and swing traders.
 
+The goal of this is to allow traders to easily find relevant data and performance indicators quickly and efficiently. 
+
+
 ## Installing & Running the Program
 1. Install Python or one of its distrtributions.
 2. Clone or download the repository
