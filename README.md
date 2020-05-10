@@ -1,12 +1,12 @@
 # stock-analysis
 
-A program that performs technical analysis upon a stock, and provides a holisitc overview on the stock's fundamental metrics.
-The program shows the High, Low, Open, Close, and Volume of the past 14 trading days, as well as the average & relative volume, volatility, and stochasitic oscillator. 
+A program that performs technical analysis upon a stock, and provides a holistic overview of the stock's fundamental metrics.
+The program shows the High, Low, Open, Close, and Volume of the past 14 trading days, as well as the average & relative volume, volatility, and stochastic oscillator. 
 It also graphs the Moving Average, Expected Returns, correlation to the S&P 500, and the Volume over the past 7 trading sessions.
 
-This program is designed to quickly and efficently gather data on a specified ticker and analyze the stock's closing price, providing valuable metrics and statistics for trading. This is especially useful for day traders and swing traders.
+This program is designed to quickly and efficiently gather data on a specified ticker and analyze the stock's closing price, providing valuable metrics and statistics for trading. This is especially useful for day traders and swing traders.
 
-The goal of this is to allow traders to easily find relevant data and performance indicators quickly and efficiently. 
+The goal of this is to allow traders to easily find relevant data and performance indicators quickly and efficiently.
 
 
 ## Installing & Running the Program
